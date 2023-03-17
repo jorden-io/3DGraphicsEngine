@@ -1,1 +1,1 @@
-GLAD, GLM and OpenGL context boiler plate init mac os
+simple graphics engine to generate geometrical shapes in 3d space with camera using OpenGL, GLM, GLFW
